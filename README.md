@@ -24,6 +24,8 @@ https://codeburst.io/css-tips-and-tricks-using-pseudo-class-fa83248bb6e0
 https://teamtreehouse.com/library/pseudoclasses-3
 
 
+
+
 # Homework
 1. Custom checkbox implementation
 https://www.jqueryscript.net/images/Checkbox-Radio-Inputs-jQuery-Checks.jpg
