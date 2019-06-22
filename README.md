@@ -25,7 +25,7 @@ https://teamtreehouse.com/library/pseudoclasses-3
 
 
 # Homework
-1. Custom checbox
+1. Custom checkbox
 https://www.jqueryscript.net/images/Checkbox-Radio-Inputs-jQuery-Checks.jpg
 
 2. Template:
